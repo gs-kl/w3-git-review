@@ -37,7 +37,7 @@
   * In Bash, `git commit -m "[commit message including enter to insert newlines, closing quotes only on final line]"`
 
 * Push your local repository to github (assume your remote is already set)
-  * < your answer here >
+  * `git push origin master`
 
 * Add a remote to your repository
   * < your answer here >
