@@ -16,7 +16,7 @@
 #### Get started!
 
 * Display your working directory
-  * < your answer here >
+  * `git rev-parse --show-toplevel`
 
 * Initialize a git repository in a newly created local directory
   * < your answer here >
