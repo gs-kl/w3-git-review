@@ -31,10 +31,10 @@
   * `git add [filename]`
 
 * Commit the contents of the staging area using the -m flag
-  * `git commit -m [commit message]`
+  * `git commit -m "[commit message]"`
 
 * Commit using the -m flag with a multi-line description
-  * < your answer here >
+  * In Bash, `git commit -m "[commit message including enter to insert newlines, closing quotes only on final line]"`
 
 * Push your local repository to github (assume your remote is already set)
   * < your answer here >
