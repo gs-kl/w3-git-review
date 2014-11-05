@@ -55,7 +55,7 @@
   * `git log`
 
 * Roll back to a specific commit in history
-  * < your answer here >
+  * One possibility for a noncommital rolling back: `git checkout [SHA-1]`
 
 #### You should understand the following:
 
