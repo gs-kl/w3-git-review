@@ -49,7 +49,7 @@
   * `git pull [remote name] [local name]`
 
 * Show the history of a git repository
-  * < your answer here >
+  * `git log`
 
 * Show a log of your commit history
   * < your answer here >
