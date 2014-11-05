@@ -40,7 +40,7 @@
   * `git push origin master`
 
 * Add a remote to your repository
-  * < your answer here >
+  * `git remote add [name]`
 
 * Change an existing remote
   * < your answer here >
