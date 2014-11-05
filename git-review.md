@@ -16,7 +16,8 @@
 #### Get started!
 
 * Display your working directory
-  * `git rev-parse --show-toplevel`
+  * Git command to print project's working directory: `git rev-parse --show-toplevel`
+  * Bash command to print working directory: `pwd`
 
 * Initialize a git repository in a newly created local directory
   * `git init`
@@ -34,10 +35,10 @@
   * `git commit -m "[commit message]"`
 
 * Commit using the -m flag with a multi-line description
-  * In Bash, `git commit -m "[commit message including enter to insert newlines, closing quotes only on final line]"`
+  * In Bash, `git commit -m "[commit message, using <ENTER> to insert newlines, closing quotes only on final line]"`
 
 * Push your local repository to github (assume your remote is already set)
-  * `git push origin master`
+  * `git push [remote repo name] [local repo name]`
 
 * Add a remote to your repository
   * `git remote add [name]`
@@ -55,7 +56,7 @@
   * `git log`
 
 * Roll back to a specific commit in history
-  * One possibility for a noncommital rolling back: `git checkout [SHA-1]`
+  * One possibility for a noncommital rolling-back: `git checkout [SHA-1]`
 
 #### You should understand the following:
 
