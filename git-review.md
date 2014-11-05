@@ -28,7 +28,7 @@
   * `git status`
 
 * Add a file to the staging area
-  * < your answer here >
+  * `git add [filename]`
 
 * Commit the contents of the staging area using the -m flag
   * < your answer here >
